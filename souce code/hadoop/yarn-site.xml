@@ -1,0 +1,9 @@
+<configuration>
+<property>
+<name>yarn.resourcemanager.hostname></name>
+<value>localhost</value>
+</property>
+<name>yarn.resourcemanager.admin.address</name>
+<value>localhost:8033</value>
+</property>
+</configuration>
